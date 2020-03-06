@@ -8,5 +8,5 @@ example
 ![](img/noise.gif)
 
 ### wave lines
-![code](wave_lines/)
-realisation ![here](https://editor.p5js.org/callofdutz/sketches/RKsuYJEs) , click 'play' to run script
+[code](wave_lines/)
+realisation [here]: https://editor.p5js.org/callofdutz/sketches/RKsuYJEs , click 'play' to run script
