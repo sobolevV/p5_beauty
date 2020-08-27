@@ -11,9 +11,12 @@ example
 code [here](wave_lines/).
 realisation [here](https://editor.p5js.org/callofdutz/sketches/RKsuYJEs) . click 'play' to run script
 
+![](img/wave_lines_example.png)
 ---
 ### forces
 some physics (friction, weight, wind forces) for circles.
 code [here].
 
 realisation [here](https://editor.p5js.org/callofdutz/sketches/HG3FAtNZ). click 'play' to run script
+
+![](img/forces_example.PNG)
