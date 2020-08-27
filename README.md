@@ -20,3 +20,9 @@ code [here].
 realisation [here](https://editor.p5js.org/callofdutz/sketches/HG3FAtNZ). click 'play' to run script
 
 ![](img/forces_example.PNG)
+
+---
+### fractals
+simple CantorSet fractal
+
+![](img/fractals_CantorSet.PNG)
